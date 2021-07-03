@@ -1,7 +1,10 @@
 # Comely-App
 
 This Project was submitted for a Job assesment .
-The Fruit basket act as a Stack which stores specific fruit values in the basket.
+The Fruit basket acts as a Stack which stores specific fruit values in the basket.
+
+### To open Home page,Open [http://localhost:3000/home](http://localhost:3000/home) to view it in the browser.
+
 
 ## Screenshots
 
