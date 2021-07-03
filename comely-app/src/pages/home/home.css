@@ -1,0 +1,40 @@
+.fruit-title {
+  text-align: center;
+  color: #1a2980;
+}
+
+.fruit-counter {
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+}
+.fruit-item {
+  box-shadow: 2px 2px 15px -2px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+}
+.fruit-count {
+  display: flex;
+  justify-content: space-between;
+}
+.fruit-count > button {
+  padding: 10px;
+  margin: 20px;
+  background-color: cornsilk;
+  color: black;
+  border-radius: 5px;
+  border-width: 0px;
+  cursor: pointer;
+}
+.stack {
+  box-shadow: 2px 2px 15px -2px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+.box {
+  border-width: 2px;
+}

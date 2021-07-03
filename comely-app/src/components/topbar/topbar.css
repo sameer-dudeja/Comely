@@ -1,0 +1,22 @@
+.topbar {
+  width: calc(100% - 20px);
+  height: 48px;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border: black;
+  padding-left: 20px;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 0px;
+}
+.topbar-wrapper {
+  height: 100%;
+  padding: 0px 2px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #1a2980;
+  font-size: 30px;
+  font-weight: bold;
+}
