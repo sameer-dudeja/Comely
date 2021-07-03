@@ -1,7 +1,7 @@
 # Comely-App
 
-This Project was submitter for a Job assesment .
-
+This Project was submitted for a Job assesment .
+The Fruit basket act as a Stack which stores specific fruit values in the basket.
 
 ## Screenshots
 
