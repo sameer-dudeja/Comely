@@ -2,14 +2,12 @@
 
 This Project was submitter for a Job assesment .
 
+
 ## Screenshots
 
-[Home](https://github.com/facebook/create-react-app).
-
-[Home_Basket](https://github.com/facebook/create-react-app).
-
-[Login](https://github.com/facebook/create-react-app).
-
+![Login_Screenshot](https://github.com/sameer-dudeja/Comely/blob/main/comely-app/Screenshots/Login.jpg?raw=true)
+![Home](https://github.com/sameer-dudeja/Comely/blob/main/comely-app/Screenshots/Home.jpg?raw=true)
+![Home_Basket](https://github.com/sameer-dudeja/Comely/blob/main/comely-app/Screenshots/Home_Basket.jpg?raw=true)
 
 ## Installation Commands
 
